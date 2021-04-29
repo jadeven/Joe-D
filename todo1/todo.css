@@ -1,0 +1,43 @@
+#title{
+    font-size: 30px;
+  }
+  
+  #inputField{
+  /*   margin: 0 auto; */
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+  
+  #buttoner {
+    margin-top: 20px
+  }
+  
+  .paragraph-styling{
+  
+     font-size: 30px;  
+  }
+  
+  #outputField {
+    text-align: center;
+  }
+  
+  #wrapper{
+    grid-template-columns: repeat(2, 1fr);
+    display: grid;
+    text-align: center;
+  }
+  #started{
+    font-size: 30px;
+  /*   text-decoration: underline;   */
+  }
+  
+  #completed {
+    font-size: 30px;
+  /*   text-decoration: underline;   */
+  }
+  
+  li{
+    list-style: none;
+  /*   text-decoration: none; */
+  }
