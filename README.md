@@ -1,6 +1,6 @@
 # Bat Belt
 
-Before ES5 and ES6 added such useful features like map, filter, spreading, etc. many developers used a library called [underscore.js](https://underscorejs.org/). Underscore provided many general utility functions to make working with javascript easier.
+After ES5 and ES6 added such useful features like map, filter, spreading, etc. many developers used a library called [underscore.js](https://underscorejs.org/). Underscore provided many general utility functions to make working with javascript easier.
 
 Once ES5 and ES6 came out, many of these functions were no longer necessary, making underscore obsolete (mostly).
 
